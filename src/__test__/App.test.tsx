@@ -1,4 +1,3 @@
-import { it, describe, expect } from "vitest";
 import { screen, render } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 
